@@ -73,12 +73,12 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 22 | W | Computational results section of paper | [Slides](Slides/ResultsSection_slides.pdf) | [Video](https://uchicago.zoom.us/rec/play/u5Qkdrv9rG03H4WQtgSDC_J6W464Kqys2ycY-qEFxB2xUXgHZ1KkZOMTYLGQjtfXWlmb-_Gd7nJf9Dtw) |  |
 | Apr 27 | M | Kernel density estimation | [Notebk1](https://github.com/UC-MACSS/persp-research-econ_Spr20/blob/master/Notebooks/KDE/05.13-Kernel-Density-Estimation.ipynb) | [Video](https://uchicago.zoom.us/rec/play/vMJ5dur5pjw3TtaXsgSDBv8rW46-eqmshncWr_dYmU-0UnJSMQfybrdEZLEqA35UzvXawvFOC0Gp6hus) | [PS1](ProblemSets/PS1/PS1.pdf) |
 | Apr 29 | W | Kernel density estimation | [Notebk2](https://github.com/UC-MACSS/persp-research-econ_Spr20/blob/master/Notebooks/KDE/KDE.ipynb) | [Video](https://uchicago.zoom.us/rec/play/uJF-d7irqjs3SIbG4QSDAfRwW47rLKysgSNIrvEInh62AXBSZgDwYOQaNuW0QRndAxFybEP5-xGLuRAB) | [Lit review section due](Assignments/lit-review.md) |
-| May  4 | M | Parallel computing | [Notebk](Notebooks/Parallel/parallel.ipynb) | [Join Zoom](https://uchicago.zoom.us/j/97167951825) | [PS2](ProblemSets/PS2/PS2.pdf) |
-| May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) | Join Zoom |  |
-| May 11 | M | Workshop papers/office visits | Schedule |  |  |
-| May 13 | W | Dynamic programming with interpolation | Notebk | Join Zoom | PS3 |
+| May  4 | M | Parallel computing | [Notebk](Notebooks/Parallel/parallel.ipynb) | [Video](https://uchicago.zoom.us/rec/play/7pYpdeqr-mk3GNfBtASDAqN9W9Treq6s0iUZ_PsMzRnmB3RWZFevYLAXZrR6ESf27shDOt2sgDgv79os) | [PS2](ProblemSets/PS2/PS2.pdf) |
+| May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) | [Video](https://uchicago.zoom.us/rec/play/uMV5Iemvqj43TN2csgSDB6UvW9TpfKus1XMf86UNnUm0UHQEY1OhN-cRM7GyoJX_g3ZOU81q3qB8X6EI) |  |
+| May 11 | M | Workshop papers/office visits | [Schedule](OfficeVisits/README.md#monday-may-11-project-consultation-sign-up) |  |  |
+| May 13 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | [Join Zoom](https://uchicago.zoom.us/j/97819230070) | [PS3](ProblemSets/PS3/PS3.pdf) |
 | May 18 | M | Dynamic programming with interpolation |  | Join Zoom |  |
-| May 20 | W | Workshop papers/office visits | Schedule |  |
+| May 20 | W | Workshop papers/office visits | [Schedule](OfficeVisits/README.md#wednesday-may-20-project-consultation-sign-up) |  |
 | May 25 | M | **No class (Memorial Day Holiday)** |  |  |
 | May 27 | W | Effective presentations, poster, slides | Slides/Notes | Join Zoom | [Methods/initial results section due](Assignments/methods-results.md) |
 | Jun  1 | M | Overlapping generations models | Notes | Join Zoom | PS4 |
